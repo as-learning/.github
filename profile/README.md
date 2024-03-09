@@ -4,9 +4,9 @@ _The revolution in learning platforms._ :rocket:
 
 ### Quickstart :beginner:
 
-* :alarm_clock: [Libs](#libs)
-* :bar_chart: [Backend](#backend) 
-* :crystal_ball: [Frontend](#frontend) 
+* :link: [Libs](#libs)
+* :gear: [Backend](#backend) 
+* :desktop_computer: [Frontend](#frontend) 
 
 ### Repository guides :pushpin:
 
