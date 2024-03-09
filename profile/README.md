@@ -1,6 +1,10 @@
-![alt text](https://raw.githubusercontent.com/as-learning/.github/main/profile/as-learning.png)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/as-learning/.github/main/profile/as-learning.png" width="15%" alt="alt text" style="vertical-align: middle;">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <em>The revolution in learning platforms.</em> :rocket:
+</p>
 
-_The revolution in learning platforms._ :rocket:
+
 
 ### Quickstart :beginner:
 
